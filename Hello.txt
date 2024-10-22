@@ -2,4 +2,4 @@ Hello World
 
 Welcome to GIT
 
-Welcome to React
+Welcome
