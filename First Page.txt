@@ -1,1 +1,1 @@
-First page background color is Yellow
+First page background color is blue
